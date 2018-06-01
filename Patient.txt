@@ -1,0 +1,8 @@
+Name
+Age
+Sex
+Bug 1
+Address
+DoB
+Bug 2
+PHN No
